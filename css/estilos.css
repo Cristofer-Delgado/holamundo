@@ -1,0 +1,44 @@
+body{
+	background-image: url(../imagenes/fondo.jpg);
+}
+
+
+#encabezado{
+	color: white;
+	text-align: center;
+	border-radius: 10px;
+	width: 50%; 
+	margin: 10 px 10px;
+	padding: 10 px 10px	10px 10px;
+	background: black;
+}
+
+#pie{
+	color: white;
+	text-align: center;
+	border-radius: 10px;
+	width: 80%;
+	margin: 30% 10% 10%;
+	height: 150px;
+	background: black;
+	clear: both;
+	padding: 5px 5px 5px 5px;
+}
+
+#section1{
+	float: left;
+	width: 38%;
+	height: 350px;
+	margin: 0 0 0 10%;
+	background-color: skyblue;
+	padding: 10px 10px 10px 10px;
+}
+
+#section2{
+	float: right;
+	width: 38%;
+	height: 350px;
+	margin: 0 10% 0 0;
+	background-color: red;
+	padding: 10px 10px 10px 10px;
+}
